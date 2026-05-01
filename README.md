@@ -175,6 +175,3 @@ This gives you real data to test every report and filter right away.
 
 ---
 
-## Author
-
-Built as Capstone 1 for the Pluralsight Java Academy.
